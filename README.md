@@ -5,7 +5,7 @@
 - Website : https://personal-porfolio-website-rho.vercel.app/
 - LinkedIn : https://www.linkedin.com/in/hema-priya-b-777484154/
 - Gmail : hemapriya2000mdu@gmail.com
-- Discord : discordapp.com/users/hemapriya_03679
+- Discord : https://discordapp.com/users/hemapriya_03679
 <!---
 hemapriyavk/hemapriyavk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
